@@ -1,4 +1,4 @@
-# Ella-Journal-App
+# Ella:Your journaling Companion. 
 
 ![ella-high-resolution-logo-transparent](https://github.com/user-attachments/assets/0df463ad-1213-43e3-9bb8-512d9f4303b9)
 
