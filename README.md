@@ -6,14 +6,27 @@ A no- frills journaling app with the ability to see mood changes over time.
 
 Meet Ella, your new journaling buddy that gets you. Think of it as your personal guide to navigating the ups and downs of life. With Ella, you’ll find a treasure trove of personalized mental health prompts tailored just for you. Whether you’re looking to unpack a tough day, celebrate a small win, or just check in with yourself, Ella is here to help.
 
-# What makes Ella special?
-Tailored Prompts (coming soon): Forget generic questions. Ella learns what resonates with you, delivering prompts that feel like they were crafted just for your unique journey.
+# What’s inside Ella?
+Mood Selector: Kick off your journaling by choosing from five moods, each paired with a unique emoji and gradient. Whether you’re feeling great or doomed, there’s a perfect fit for your day.
+
+Intuitive Journaling: Jot down your thoughts in a beautifully designed space that feels inviting, whether you’re venting about a rough day or celebrating a small win. With just a click, create new entries and keep track of how you’re feeling over time.
+
+Personalized Themes: Light or dark? You choose! Ella allows you to toggle between themes effortlessly, enhancing your experience and keeping things visually fresh. Your preference is saved, so you can pick up right where you left off.
+
+Calendar Overview: Dive into your past entries with a sleek calendar sidebar. Highlighted days show you when you’ve logged your feelings, making it easy to revisit moments and reflect on your journey.
+
+Settings for You: Adjust your profile, manage your preferences, and personalize your experience. It’s all about making Ella feel like your space.
+
+Smooth Animations: Transitions between screens and actions are seamless, thanks to clever animations. You won’t just use Ella; you’ll enjoy it.
+
+# What makes Ella special? (coming soon)
+Tailored Prompts : Forget generic questions. Ella learns what resonates with you, delivering prompts that feel like they were crafted just for your unique journey.
 
 Mood Tracking: Keep tabs on your emotions over time. With Ella, you can easily see patterns and gain insights into what truly makes you tick.
 
 Reflection Spaces: Dive deeper into your thoughts with dedicated spaces for reflection, helping you cultivate self-awareness and personal growth.
 
-Gentle Reminders (coming soon): Life gets busy. Ella nudges you gently when it’s time to pause and reflect, making self-care feel effortless.
+Gentle Reminders : Life gets busy. Ella nudges you gently when it’s time to pause and reflect, making self-care feel effortless.
 
 So, if you’re ready to turn the page on stress and dive into a journey of self-discovery, give Ella a shot. It’s not just about journaling; it’s about connecting with yourself in a way that feels real and meaningful. No pressure, just you and Ella—let’s explore your mind together!
 
