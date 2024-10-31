@@ -1,6 +1,7 @@
 # Ella:Your journaling Companion. 
 
-![ella-high-resolution-logo-transparent](https://github.com/user-attachments/assets/0df463ad-1213-43e3-9bb8-512d9f4303b9)
+![ella-high-resolution-logo-transparent](https://github.com/user-attachments/assets/d865b0d5-93ca-4f98-9866-298f41e5cc27)
+
 
 A no- frills journaling app with the ability to see mood changes over time.
 
