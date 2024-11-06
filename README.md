@@ -20,6 +20,8 @@ Settings for You: Adjust your profile, manage your preferences, and personalize 
 
 Smooth Animations: Transitions between screens and actions are seamless, thanks to clever animations. You won’t just use Ella; you’ll enjoy it.
 
+![image](https://github.com/user-attachments/assets/087e3ea8-b1f6-45fc-8c65-2158ab5ab4f8)
+
 # What makes Ella special? (coming soon)
 Tailored Prompts : Forget generic questions. Ella learns what resonates with you, delivering prompts that feel like they were crafted just for your unique journey.
 
